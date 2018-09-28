@@ -1,13 +1,16 @@
-A blog application build with django framework.
+A blog application built with Django Website Framework.
 
 HOW TO IMPORT PROJECT
-1. launch command prompt and change directory with cd document.note cd(change directory)
 
-note: Make sure you have download Git(htt:git-scm.com/download), configured on your system
+1. launch command prompt and change directory with cd document
 
-2.git clone https:github.com/catherine1997/mysite
+* Note: cd (change directory)
 
-3. Navigate to mysite with cd mysite 
+        Make sure you have download Git from (https://git-scm.com/download) and configure on your computer system
+
+2. On the CMD/Terminal/Powershell from No. 1; Type: git clone https:github.com/catherine1997/mysite
+
+3. Navigate to mysite folder with cd mysite 
 
 HOW TO INSTALL DJANGO
 
@@ -16,4 +19,5 @@ HOW TO INSTALL DJANGO
  HOW TO LAUNCH
 
  Navigate to mysite folder as directed in No.1 and type
-  python manage.py runserver
+ 
+ - python manage.py runserver
